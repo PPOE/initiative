@@ -10,7 +10,6 @@ $empfaenger["Kinder, Jugend, Familie"] = "kinder-jugend-familie@forum.piratenpar
 $empfaenger["Umwelt, Tierschutz, Verkehr, Energie"] = "umwelt-verkehr-energie@forum.piratenpartei.at";
 $empfaenger["Wirtschaft, Soziales, Konsumentenschutz"] = "wirtschaft-soziales@forum.piratenpartei.at";
 $empfaenger["Sonstiges"] = "sonstige-politische-themen@forum.piratenpartei.at";
-$empfaenger["Test"] = "burnoutberni@piratenpartei.at";
 
 if($_POST['submit'] != "true") {goto end;}
 
